@@ -1,0 +1,18 @@
+.buttonContainer {
+  padding: 24px 32px;
+}
+
+.button {
+  color: var(--background-white);
+  background: orange;
+  /* var(--main-yellow-text-color); */
+  border-radius: 100px;
+  cursor: pointer;
+  padding: 15px 45px;
+  text-decoration: none;
+}
+
+.button:hover {
+  color: var(--main-yellow-text-color);
+  background-color: var(--hover-color);
+}

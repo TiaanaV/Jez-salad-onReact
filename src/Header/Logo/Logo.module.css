@@ -1,0 +1,8 @@
+.logo {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 28px;
+  color: var(--main-yellow-text-color);
+}
